@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rolex.Alright - Tech Products</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #ffffff;
+            color: #333333;
+        }
+        header {
+            background-color: #ff0000;
+            color: #ffffff;
+            padding: 20px;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+        }
+        .container {
+            padding: 20px;
+        }
+        .tech-product {
+            border: 1px solid #ff0000;
+            padding: 15px;
+            margin: 10px 0;
+            border-radius: 5px;
+        }
+        footer {
+            background-color: #ff0000;
+            color: #ffffff;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Rolex.Alright</h1>
+        <p>Tech Products</p>
+    </header>
+    <div class="container">
+        <h2>Featured Tech Products</h2>
+        <div class="tech-product">
+            <h3>Product 1</h3>
+            <p>Description of the first tech product. This section can be expanded to include more details, features, and specifications.</p>
+        </div>
+        <div class="tech-product">
+            <h3>Product 2</h3>
+            <p>Description of the second tech product. This section can be expanded to include more details, features, and specifications.</p>
+        </div>
+        <div class="tech-product">
+            <h3>Product 3</h3>
+            <p>Description of the third tech product. This section can be expanded to include more details, features, and specifications.</p>
+        </div>
+    </div>
+    <footer>
+        <p>&copy; 2024 Rolex.Alright</p>
+    </footer>
+</body>
+</html>
